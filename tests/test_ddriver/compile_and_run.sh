@@ -1,10 +1,10 @@
 #!/bin/bash
 
-mkdir build
+ mkdir build
 
-cd build || exit
+ cd build || exit
 
-cmake ..
+ cmake ..
 
 make
 

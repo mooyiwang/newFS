@@ -3,6 +3,10 @@
         "*.cjson": "jsonc",
         "*.wxss": "css",
         "*.wxs": "javascript",
-        "ioctl.h": "c"
-    }
+        "ioctl.h": "c",
+        "fs.h": "c",
+        "ddriver.h": "c",
+        "ddriver_ctl_user.h": "c"
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/fs/newfs"
 }
